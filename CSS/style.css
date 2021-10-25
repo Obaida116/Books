@@ -97,3 +97,41 @@ header .col-md-7 button{
 }
 
 /* Section-1 Starts Here */
+
+.section-1{
+    padding: 20% 0%;
+}
+
+.section-1 .row .col-md-6 .pray img{
+    opacity: 0.8;
+    width: 80%;
+    border-radius: 0.2rem;
+}
+
+.section-1 .row .col-md-6:last-child{
+    position: relative;
+}
+
+.section-1 .row .col-md-6 .panel{
+    position: absolute;
+    top: 7vmin;
+    left: -18vmin;
+    border-radius: 3px;
+    text-align: left;
+    background: white;
+    font-family: var(--Rubik);
+    padding: 13vmin 5vmin 20vmin 10vmin;
+    box-shadow: 5px 25px 40px rgba(0, 0, 0, 0.2);
+}
+
+.section-1 .row .col-md-6 .panel h1{
+    font-size: 32px;
+    font-weight: bold;
+    padding: 0.4em 0;
+}
+
+.section-1 .row .col-md-6 .panel p{
+    color: rgb(173, 165, 165);
+}
+
+/* Section-2 Starts Here */
