@@ -256,7 +256,7 @@ header .col-md-7 button{
     background: white;
     display: inline-block;
     border-radius: 3em;
-    padding: 2vmin 3.5vmin;
+    padding: 2vmin 3vmin;
     margin: 1em;
 }   
 
@@ -275,12 +275,16 @@ header .col-md-7 button{
     padding-top: 14vmin;
 }
 
+.section-4 .team-container {
+    max-width: 1100px;
+    margin: 0 auto;
+}
 .section-4 .team{
     padding: 10vmin 4vmin;
 }
 
 .section-4 .card{
-    width: 22rem;
+    width: 19.5rem;
     margin-top: 10vmin;
 }
 
@@ -293,7 +297,7 @@ header .col-md-7 button{
 }
 
 .section-4 .carousel-item{
-    padding-left: 3rem;
+    padding-left: 0.8rem;
 }
 
 .border-radius{
